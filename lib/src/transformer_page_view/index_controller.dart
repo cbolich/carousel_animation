@@ -60,7 +60,7 @@ class NextIndexControllerEvent extends IndexControllerEventBase
   int get step => 1;
 
   @override
-  double get targetPosition => 1;
+  double get targetPosition => 0;
 }
 
 class PrevIndexControllerEvent extends IndexControllerEventBase
@@ -74,7 +74,7 @@ class PrevIndexControllerEvent extends IndexControllerEventBase
   int get step => -1;
 
   @override
-  double get targetPosition => 0;
+  double get targetPosition => 1;
 }
 
 class MoveIndexControllerEvent extends IndexControllerEventBase
