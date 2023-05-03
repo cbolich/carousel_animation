@@ -1,4 +1,4 @@
-import 'package:card_swiper/card_swiper.dart';
+import 'package:carousel_animations/carousel_animations.dart';
 import 'package:flutter/material.dart';
 
 class SwiperControl extends SwiperPlugin {

@@ -5,7 +5,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 
-import '../card_swiper.dart';
+import '../carousel_animations.dart';
 import 'transformer_page_view/transformer_page_view.dart';
 
 part 'custom_layout.dart';

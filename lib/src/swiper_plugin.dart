@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import '../card_swiper.dart';
+import '../carousel_animations.dart';
 
 /// plugin to display swiper components
 ///

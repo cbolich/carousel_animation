@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:card_swiper/card_swiper.dart';
+import 'package:carousel_animations/carousel_animations.dart';
 import 'package:flutter/material.dart';
 
 import 'src/config.dart';
