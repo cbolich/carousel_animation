@@ -1,5 +1,11 @@
 ![Logo](banner.jpg)
 
+# This is a very early fork, recommend using the original for now.
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/TheAnkurPanchani/flutter_swiper/pulls">
         <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome" />
@@ -15,7 +21,7 @@ Swiper/Carousel for flutter, with multiple layouts, infinite loop. Compatible wi
 
 # :sparkles::sparkles: New Features:Layout for pagination.
 
-We are using this project [flutter_page_indicator](https://github.com/best-flutter/flutter_page_indicator) now .
+
 
 # :sparkles::sparkles: New Features:PageTransformer
 
@@ -23,7 +29,7 @@ Finally, we have `PageTransformer` like android, just set a `transformer` to `Sw
 it returns a widget that has been transformed. For now, only support for layout `DEFAULT`.
 Thanks to @FlutterRocks ,you've done great job 👏.
 
-We are using this project [transformer_page_view](https://github.com/best-flutter/transformer_page_view) now .
+
 
 # :sparkles::sparkles: New Features:Layout
 
