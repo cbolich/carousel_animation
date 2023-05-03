@@ -17,13 +17,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
-  card_swiper:
+  carousel_animations:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: carousel_animations
+      sha256: "8bfc3ec13d75afe6800c08bd0a647b1d467a2e163d4794b20d53eb2fc9b32588"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   characters:
     dependency: transitive
     description:
