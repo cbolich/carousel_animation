@@ -73,7 +73,7 @@ We are using this project [transformer_page_view](https://github.com/best-flutte
 Add
 
 ```bash
-card_swiper : ^2.0.1
+carousel_animations : 
 ```
 
 to your `pubspec.yaml`, and run
@@ -89,7 +89,7 @@ OR
 run
 
 ```bash
-flutter pub add card_swiper
+flutter pub add carousel_animations
 ```
 
 in your project's root directory.
@@ -108,7 +108,7 @@ Edit lib/main.dart like this:
 
 import 'package:flutter/material.dart';
 
-import 'package:card_swiper/card_swiper.dart';
+import 'package:carousel_animations/carousel_animations.dart';
 
 void main() => runApp(MyApp());
 
